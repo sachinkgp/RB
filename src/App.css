@@ -1,0 +1,133 @@
+.Headerbg {
+    width: 1440px;
+    height: 96px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0.8;
+}
+
+.Bgimg {
+    width: 1437;
+    height: 826;
+    position: absolute;
+    opacity: 1;
+    left: 0;
+    top : 100;
+}
+
+.Partner {
+    width: 1253;
+    height: 169;
+    position: absolute;
+    left: 97px;
+    top :750px;
+    opacity: 0.8;
+}
+
+.Bitcoinlogo{
+    width: 348.05;
+    height: 347.99;
+    position: absolute;
+    left: 972px;
+    top : 216px;
+}
+
+.Bitcoinlogobg {
+    width: 788;
+    height: 738;
+    position: absolute;
+    left: 674px;
+    top : 98px;
+}
+
+.Box{
+    width: 56;
+    height: 54;
+    position: absolute;
+    left: 41px;
+    top : 140px;
+}
+
+.Exploremore {
+    width: 165;
+    height: 60;
+    position: absolute;
+    left: 182px;
+    top : 515px;
+}
+
+.HeroWaves{
+    width: 1439;
+    height: 232;
+    position: absolute;
+    left: 0px;
+    top : 594.72px;
+}
+.txt{
+    position: absolute;
+    left: 180px;
+    top : 200px;
+    color: #fff;
+}
+
+.facebook{
+    width: 6;
+    height: 6;
+    position: absolute;
+    left: 30px;
+    top : 100px;
+}
+.twitter{
+    width: 6;
+    height: 6;
+    position: absolute;
+    left: 30px;
+    top : 100px;
+}
+.insta{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    left: 1350px;
+    top : 280px;
+    opacity: 1;
+}
+.fb{
+    width: 25px;
+    height: 40px;
+    position: absolute;
+    left: 1358px;
+    top : 360px;
+    opacity: 1;
+}
+.twitter{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    left: 1350px;
+    top : 430px;
+    opacity: 1;
+}
+.navbar{
+    display: flex;
+    position: absolute;
+    left: 100px;
+    top : -7px;
+}
+.hellchild1{
+    color: white;
+    position: relative;
+    top: 50px;
+    margin-right: 300px;
+    font-size: 25px;
+}
+.hellchild{
+    color: white;
+    margin: 50px;
+    font-size: 25px;
+}
+.flex-container {
+    display: flex;
+  }
+  
